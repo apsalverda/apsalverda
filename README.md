@@ -6,7 +6,8 @@ Each project below showcases different aspects of my data science, data analytic
 
 ### Personal projects
 
-#### [warbler-songs-quiz-python](https://github.com/apsalverda/warbler-songs-quiz-python) <span>A lightweight Python app that you can use to learn to recognize birds by ear.</span>
+#### [warbler-songs-quiz-python](https://github.com/apsalverda/warbler-songs-quiz-python)
+A lightweight Python app that you can use to learn to recognize birds by ear.
 
 #### [ebird-dashboard-hotspot-R](https://github.com/apsalverda/ebird-dashboard-hotspot-R)
 A dynamic dashboard, created in Quartio/R/Shiny that can be used to explore your personal eBird data.
