@@ -1,23 +1,20 @@
 Hi, I'm Anne Pier ("AP") 👋
 
-Welcome to my portfolio.
-
 I'm a data scientist / data analyst with an extensive background in experimental research.
 
 Each project below showcases different aspects of my data science, data analytics and programming skills.
 
-Why are all these projects focused on bird data? I started birding a couple of years ago and got hooked. I created the quiz, dashboard and report below to improve my birding skills and to support my birding activities. I hope that they will be useful for other birders.
-
 ### Personal projects
 
-#### [warbler-songs-quiz-python](https://github.com/apsalverda/warbler-songs-quiz-python)
-A lightweight Python app that you can use to learn to recognize birds by ear.
+#### [warbler-songs-quiz-python](https://github.com/apsalverda/warbler-songs-quiz-python) <span>A lightweight Python app that you can use to learn to recognize birds by ear.</span>
 
 #### [ebird-dashboard-hotspot-R](https://github.com/apsalverda/ebird-dashboard-hotspot-R)
 A dynamic dashboard, created in Quartio/R/Shiny that can be used to explore your personal eBird data.
 
 #### [ebird-report-user-data-R](https://github.com/apsalverda/ebird-report-user-data-R)
 A dynamic report, created in Quario, based on your personal eBird data.
+
+Why are all these projects focused on bird data? I started birding a couple of years ago and got hooked. I created the quiz, dashboard and report below to improve my birding skills and to support my birding activities. I hope that they will be useful for other birders.
 
 <!--
 **apsalverda/apsalverda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
