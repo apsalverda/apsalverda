@@ -2,7 +2,7 @@ Hi, I'm Anne Pier ("AP") 👋
 
 I'm a data scientist / data analyst with a background in cognitive science.
 
-Each project below showcases different aspects of my data science, data analysis, data visualization and programming skills.
+Each project below showcases different aspects of my data science, data analysis, data visualization, and programming skills.
 
 ### Personal projects
 
