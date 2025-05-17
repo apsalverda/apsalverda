@@ -15,7 +15,12 @@ A dynamic dashboard, created in Quartio/R/Shiny, to explore your personal eBird 
 #### [ebird-report-user-data-R](https://github.com/apsalverda/ebird-report-user-data-R)
 A dynamic report, created in Quarto/R, based on your personal eBird data.
 
-🐦‍⬛ Why are all these projects focused on bird data? I started birding a couple of years ago and got hooked. I created the quiz, dashboard and dynamic report below to improve my birding skills and to support my birding activities. I hope that they will be useful for other birders.
+🐦‍⬛ Why are all my personal projects focused on bird data? I started birding a couple of years ago and got hooked. I created the quiz, dashboard and dynamic report below to improve my birding skills and to support my birding activities. I hope that they will be useful for other birders.
+
+### Tools
+
+#### [assets-checker-python](https://github.com/apsalverda/assets-checker-python)
+A simple tool to identify missing assets in content JSON.
 
 <!--
 **apsalverda/apsalverda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
