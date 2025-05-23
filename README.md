@@ -10,7 +10,7 @@ Each project below showcases different aspects of my data science, data analysis
 A lightweight Python app to learn to identify birds by their songs and calls.
 
 #### [ebird-dashboard-hotspot-R](https://github.com/apsalverda/ebird-dashboard-hotspot-R)
-A dynamic dashboard, created in Quartio/R/Shiny, to explore your personal eBird data.
+A dynamic dashboard, created in Quarto/R/Shiny, to explore your personal eBird data.
 
 #### [ebird-report-user-data-R](https://github.com/apsalverda/ebird-report-user-data-R)
 A dynamic report, created in Quarto/R, based on your personal eBird data.
