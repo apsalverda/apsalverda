@@ -6,7 +6,7 @@ Each project below showcases different aspects of my data science, data analysis
 
 ### Personal projects
 
-#### [warbler-songs-quiz-python](https://github.com/apsalverda/warbler-songs-quiz-python)
+#### [birdsong-quiz-python](https://github.com/apsalverda/birdsong-quiz-python)
 A lightweight Python app to learn to identify birds by their songs and calls.
 
 #### [ebird-dashboard-hotspot-R](https://github.com/apsalverda/ebird-dashboard-hotspot-R)
