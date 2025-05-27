@@ -22,7 +22,7 @@ A dynamic report, created in Quarto/R, based on your personal eBird data.
 #### [assets-checker-python](https://github.com/apsalverda/assets-checker-python)
 A simple tool to identify missing assets in content JSON.
 
-#### [ebird-location-menu-bar-python](https://github.com/apsalverda/ebird-location-menu-bar-python)
+#### [ebird-hotspot-menu-bar-python](https://github.com/apsalverda/ebird-hotspot-menu-bar-python)
 A small app that displays a list of recent observations for a particular hotspot, using the eBird API.
 
 <!--
