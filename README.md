@@ -23,7 +23,7 @@ A dynamic report, created in Quarto/R, based on your personal eBird data.
 A simple tool to identify missing assets in content JSON.
 
 #### [ebird-hotspot-menu-bar-python](https://github.com/apsalverda/ebird-hotspot-menu-bar-python)
-A small app that displays a list of recent observations for a particular hotspot, using the eBird API.
+A small app that displays a list of recent observations for a particular hotspot, with live data from the eBird API.
 
 <!--
 **apsalverda/apsalverda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
