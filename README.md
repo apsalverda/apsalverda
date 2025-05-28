@@ -15,7 +15,7 @@ A dynamic dashboard, created in Quarto/R/Shiny, to explore your personal eBird d
 #### [ebird-report-user-data-R](https://github.com/apsalverda/ebird-report-user-data-R)
 A dynamic report, created in Quarto/R, based on your personal eBird data.
 
-🐦‍⬛ Why are all my personal projects focused on bird data? I started birding a couple of years ago and got hooked. I created the quiz, dashboard and dynamic report above as well as the menu bar tool below to improve my birding skills and to support my birding activities. I hope that they will be useful for other birders.
+🐦‍⬛ Why are many of my personal projects focused on bird data? I started birding a couple of years ago and got hooked. I created the quiz, dashboard and dynamic report above, as well as the menu bar tool below, to support my birding activities and to improve my birding skills. I share the source code here in hope that some projects may be be useful for other birders.
 
 ### Tools
 
