@@ -15,7 +15,7 @@ A dynamic dashboard, created in Quarto/R/Shiny, to explore your personal eBird d
 #### [ebird-report-user-data-R](https://github.com/apsalverda/ebird-report-user-data-R)
 A dynamic report, created in Quarto/R, based on your personal eBird data.
 
-🐦‍⬛ Why are all my personal projects focused on bird data? I started birding a couple of years ago and got hooked. I created the quiz, dashboard and dynamic report below to improve my birding skills and to support my birding activities. I hope that they will be useful for other birders.
+🐦‍⬛ Why are all my personal projects focused on bird data? I started birding a couple of years ago and got hooked. I created the quiz, dashboard and dynamic report above as well as the menu bar tool below to improve my birding skills and to support my birding activities. I hope that they will be useful for other birders.
 
 ### Tools
 
@@ -23,7 +23,7 @@ A dynamic report, created in Quarto/R, based on your personal eBird data.
 A simple tool to identify missing assets in content JSON.
 
 #### [ebird-hotspot-menu-bar-python](https://github.com/apsalverda/ebird-hotspot-menu-bar-python)
-A small app that displays a list of recent observations for a particular hotspot, with live data from the eBird API.
+A small app that displays a list of recent observations for a particular eBird hotspot, with live data from the eBird API.
 
 <!--
 **apsalverda/apsalverda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
