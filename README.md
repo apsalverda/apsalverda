@@ -6,14 +6,14 @@ Each project below showcases different aspects of my data science, data analysis
 
 ### Personal projects
 
-#### [birdsong-quiz-python](https://github.com/apsalverda/birdsong-quiz-python)
-A lightweight Python app to learn to identify birds by their songs and calls.
-
 #### [ebird-dashboard-hotspot-R](https://github.com/apsalverda/ebird-dashboard-hotspot-R)
 A dynamic dashboard, created in Quarto/R/Shiny, to explore your personal eBird data.
 
 #### [ebird-report-user-data-R](https://github.com/apsalverda/ebird-report-user-data-R)
 A dynamic report, created in Quarto/R, based on your personal eBird data.
+
+#### [birdsong-quiz-python](https://github.com/apsalverda/birdsong-quiz-python)
+A lightweight Python app to learn to identify birds by their songs and calls.
 
 🐦‍⬛ Why are many of my personal projects focused on bird data? I started birding a couple of years ago and got hooked. I created the quiz, dashboard and dynamic report above, as well as the menu bar tool below, to support my birding activities and to improve my birding skills. I share the source code here in hope that some projects may be be useful for other birders.
 
