@@ -25,6 +25,8 @@ A simple tool to identify missing assets in content JSON.
 #### [ebird-hotspot-menu-bar-python](https://github.com/apsalverda/ebird-hotspot-menu-bar-python)
 A small app that displays a list of recent observations for a particular eBird hotspot, with live data from the eBird API.
 
+### Publications
+
 #### [aps-research-articles](https://github.com/apsalverda/aps-research-articles/tree/main)
 A repository of my journal publications and technical reports.
 
