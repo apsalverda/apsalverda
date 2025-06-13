@@ -28,7 +28,7 @@ A small app that displays a list of recent observations for a particular eBird h
 ### Publications
 
 #### [aps-research-articles](https://github.com/apsalverda/aps-research-articles/tree/main)
-A repository of my journal publications and technical reports.
+A collection of my journal publications and technical reports.
 
 <!--
 **apsalverda/apsalverda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
